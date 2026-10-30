@@ -1,6 +1,6 @@
 # Matma po kolei
 
-Polskojęzyczna aplikacja do podstaw logiki, tautologii, kresów zbiorów i przekształceń algebraicznych. Cztery krótkie lekcje, osiem pytań, stopniowe podpowiedzi i interaktywna implikacja. Zakres według opisu użytkowniczki; sylabus UMK nie został zweryfikowany.
+Polskojęzyczna aplikacja do podstaw logiki, tautologii, kresów zbiorów i przekształceń algebraicznych. Pięć krótkich lekcji, jedenaście pytań, stopniowe podpowiedzi i interaktywna implikacja. Zakres według opisu użytkowniczki; sylabus UMK nie został zweryfikowany.
 
 ## Lokalnie
 
